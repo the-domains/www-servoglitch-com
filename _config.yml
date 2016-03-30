@@ -1,9 +1,9 @@
 analytics: {}
 color:
   brandColors:
-    - '#D8E0D0'
-    - '#681808'
-    - '#486898'
+    - '#D8D8D0'
+    - '#701800'
+    - '#507090'
     - '#D03800'
     - '#000000'
   brandStrength: 0.017736
@@ -11,8 +11,8 @@ color:
   rhythmicContrast: 0.201285
   saturation: 0.513513
 cta: {}
-layout_spectrum: 0.017736
+layout_spectrum: 0.009291
 name: www.servoglitch.com
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.378378
+typography_spectrum: 0
