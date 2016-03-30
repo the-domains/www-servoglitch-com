@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#D8E0D0'
+    - '#681808'
+    - '#486898'
+    - '#D03800'
+    - '#000000'
+  brandStrength: 0.017736
+  lightness: 0.875102
+  rhythmicContrast: 0.201285
+  saturation: 0.513513
+cta: {}
+layout_spectrum: 0.017736
+name: www.servoglitch.com
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.378378
